@@ -13,7 +13,7 @@
 >>[1.2 Python示例代码](https://github.com/spider-lee/claude-api-key?tab=readme-ov-file#23-%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91-python%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81)
 >
 >[二✨ 账户管理](https://chaxun.wlai.vip)
->>[2.1 购买API KEY](https://api.cursorai.art/topup)
+>>[2.1 购买API KEY](https://api.cursorai.art/register?aff=xoXg)
 >>
 >>[2.2 查询余额及明细](https://chaxun.wlai.vip)
 >
@@ -37,7 +37,7 @@ CURSORAIAPI致力于提供最稳定、最具性价比的企业级AI服务。我�
 
 # 🚀 快速开始 🚀
 ## 一🌟 购买APIKEY
-1. 访问官网 [api.cursorai.art](https://api.cursorai.art) 注册账号
+1. 访问官网 [api.cursorai.art](https://api.cursorai.art/register?aff=xoXg) 注册账号
 2. 在线充值，1元起充
 3. 自动生成APIKEY，立即使用
 
